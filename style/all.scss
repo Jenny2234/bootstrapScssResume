@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "./helper/variables";
+
+@import "../node_modules/bootstrap/scss/maps";
+@import "./helper/utilities";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+//components
+@import "./components/deco-box";
+@import "./components/utilities"

@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapscssresume",
+  "version": "1.0.0",
+  "description": "bootstrapScssResume個人簡歷",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny2234/bootstrapScssResume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenny2234/bootstrapScssResume/issues"
+  },
+  "homepage": "https://github.com/Jenny2234/bootstrapScssResume#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
